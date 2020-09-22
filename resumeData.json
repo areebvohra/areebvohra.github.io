@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Areeb Vohra",
+    "occupation": "Mobile Application Developer",
+    "description": "I like dabbling in various parts of frontend and backend development and like to explore new technological innovations in the software world.  I have developed a portfolio of applications on different platforms including react native and flutter.",
+    "image": "profilepic.jpg",
+    "bio": "Graduated from Hamdard University with a Bachelor's Degree in Computer Science. Have Experience in Android/IOS (Hybrid) and Web Application Development using the Latest technologies like Flutter, React Native, React.js, MongoDB and Firebase.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "areebvohra@gmail.com",
+    "phone": "(+92) 342 211 4890",
+    "address": {
+      "city": "Karachi, Pakistan"
+    },
+    "website": "http://",
+    "resumedownload": "https://areebvohra.github.io/",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/areeb-vohra/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/areebvohra",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "https://join.skype.com/invite/WcjWoSn3ShmU",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Hamdard University",
+        "degree": "Bachelor's of Science in Computer Science",
+        "graduated": "Feburary 2019"
+      },
+      {
+        "school": "Aptech Computer Education",
+        "degree": "ACCP-PRO",
+        "graduated": "December 2018"
+      }
+    ],
+    "work": [
+      {
+        "company": "Verizone Technologies",
+        "title": "React Native Developer",
+        "years": "December 2019 - March 2020"
+      },
+      {
+        "company": "Webtrica",
+        "title": "React Native Intern",
+        "years": "August 2019 - November 2019"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Native",
+        "level": "70%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "50%"
+      },
+      {
+        "name": "WordPress",
+        "level": "90%"
+      },
+      {
+        "name": "Flutter",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Leading Business Plans",
+        "category": "Business",
+        "image": "leadingbusinessplans.png",
+        "url": "https://leadingbusinessplans.com/"
+      },
+      {
+        "title": "Mortgage Amortization Calculator",
+        "category": "Finance",
+        "image": "mortgage-amortization.png",
+        "url": "https://ilovemakingmoney.com/calculator-test/"
+      },
+      {
+        "title": "Compound Interest Caclulator",
+        "category": "Finance",
+        "image": "compound-interest-calculator.png",
+        "url": "https://ilovemakingmoney.com/compound-interest-calculator/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Very fun to work with - great with revisions - and the function is super clean coding. Thanks!",
+        "user": "Kit Elliott - Finance Blogger"
+      },
+      {
+        "text": "Areebvohra did a great job working on website for a real estate agent. He was able to completely design custom Wordpress site that looked and functioned like another site that we had liked. If you need custom Wordpress website design then he is the guy you should use.",
+        "user": "mediaproz - Fiverr Buyer"
+      },
+      {
+        "text": "Very good, patient and very professional! Will use him again for other websites. Highly recommended!",
+        "user": "bizconsultant4u - Fiverr Buyer"
+      }
+    ]
+  }
+}
