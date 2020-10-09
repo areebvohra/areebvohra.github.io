@@ -222,8 +222,8 @@ ul#nav li.current a {
 
 #about {
    background: #2B2B2B;
-   padding-top: 96px;
-   padding-bottom: 66px;
+   padding-top: 60px;
+   padding-bottom: 30px;
    overflow: hidden;
 }
 
@@ -290,8 +290,8 @@ ul#nav li.current a {
 
 #resume {
    background: #fff;
-   padding-top: 90px;
-   padding-bottom: 72px;
+   padding-top: 60px;
+   padding-bottom: 30px;
    overflow: hidden;
 }
 
@@ -327,8 +327,8 @@ ul#nav li.current a {
 }
 
 .education, .work {
-   margin-bottom: 48px;
-   padding-bottom: 24px;
+   margin-bottom: 30px;
+   /* padding-bottom: 24px; */
    border-bottom: 1px solid #E8E8E8;
 }
 
@@ -368,9 +368,9 @@ ul#nav li.current a {
 
 .bars li {
    position: relative;
-   margin-bottom: 60px;
+   margin-bottom: 40px;
    background: #ccc;
-   height: 42px;
+   height: 25px;
    border-radius: 3px;
 }
 
@@ -381,7 +381,7 @@ ul#nav li.current a {
    letter-spacing: 2px;
    font-weight: normal;
    position: relative;
-   top: -36px;
+   top: -30px;
 }
 
 .bar-expand {
@@ -392,8 +392,8 @@ ul#nav li.current a {
    padding-right: 24px;
    background: #313131;
    display: inline-block;
-   height: 42px;
-   line-height: 42px;
+   height: 25px;
+   line-height: 24px;
    border-radius: 3px 0 0 3px;
 }
 
@@ -492,8 +492,8 @@ ul#nav li.current a {
 
 #portfolio {
    background: #ebeeee;
-   padding-top: 90px;
-   padding-bottom: 60px;
+   padding-top: 60px;
+   padding-bottom: 30px;
 }
 
 #portfolio h1 {
@@ -771,8 +771,8 @@ call-to-action .button {
 }
 
 #testimonials .text-container {
-   padding-top: 96px;
-   padding-bottom: 66px;
+   padding-top: 60px;
+   padding-bottom: 30px;
 }
 
 #testimonials h1 {
@@ -970,8 +970,8 @@ call-to-action .button {
 
 #contact {
    background: #191919;
-   padding-top: 96px;
-   padding-bottom: 102px;
+   padding-top: 60px;
+   padding-bottom: 20px;
    color: #636363;
 }
 
